@@ -5,4 +5,4 @@
 <img src="https://badgen.net/static/HTML/5/red" alt="HTML5"> <img src="https://badgen.net/static/CSS/3/blue" alt="CSS3"> <img src="https://badgen.net/static/JavaScript/ES2023/yellow" alt="CSS3">
 
 ---
-[![Email](https://badgen.net/static/Contact/Email%20me/black)](mailto:chaz1q@hotmail.com)
+[![Email](https://badgen.net/static/Contact/Email%20Me/black)](mailto:chaz1q@hotmail.com)
