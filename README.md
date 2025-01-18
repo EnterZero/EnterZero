@@ -2,4 +2,4 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML-5-red) ![Static Badge](https://img.shields.io/badge/CSS-3-blue) ![Static Badge](https://img.shields.io/badge/JS-ES5+-yellow)
 
-latest project: https://qonnectify.netlify.app/
+Under Developement: https://enterzero.github.io/qonnectify/
